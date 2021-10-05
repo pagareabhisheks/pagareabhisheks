@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abhishek Pagare
+- 👀 I’m interested in Python coding, machine learning
+- 🌱 I’m currently learning data science, SQL, artificial intelligence
+- 📫 How to reach me: pagare.abhisheks@gmail.com
